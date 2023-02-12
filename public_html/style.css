@@ -1,0 +1,110 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 09-Feb-2023, 10:19:54 am
+    Author     : Student
+*/
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css');
+@import url('https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css');
+
+
+body{
+    margin:0px;
+    padding: 0px;
+    color:white;
+    background-color: black;
+}
+
+#n:hover{
+    background-color: rgb(10, 102, 223);
+}
+#left{
+    width: 50%; 
+    height: 350px; 
+    float:left;
+}
+
+#right{
+    width: 50%; 
+    height: 350px; 
+    float:right;
+    
+}
+#left,#right p{
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.line{
+    color:rgb(41, 105, 224); 
+    margin-top:-1.5rem;
+}
+.topic{
+    color:yellow;
+   margin-left: 30px;
+}
+.btn{
+    margin-left: 300px;
+}
+.atp{
+    color:yellow;
+    text-align: center;
+}
+.container{
+    border-color: yellow;
+}
+
+.button:hover{
+    background-color: rgb(14, 170, 218);
+}
+#left p{
+    margin-left: 30px;
+}
+#right p{
+    margin-left: 30px;
+}
+.mn{
+    padding-top: 20%;
+    text-align: center;
+    color:yellow;
+}
+footer{
+    position: fixed;
+   bottom: 0;
+   width: 100%;
+   height: 60px;  
+   text-align: center;
+}
+
+#ch{
+    color:yellow;
+    margin-left: 25%;
+}
+.sh{
+   
+    text-align: center;
+    color:yellow;
+}
+.head2{
+    color:white;
+}
+
+h1{
+    text-align: center;
+}
+
+footer{
+    color: black;
+    background-color: rgb(243, 243, 245);
+}
+
+#cf{
+    width: 800px;
+    height:450px;
+    border: 2px solid white;
+    margin-top: 5%;
+   
+}
+

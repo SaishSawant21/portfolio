@@ -39,10 +39,11 @@ body{
 .col{
     margin-left: 30px;
     margin-top: 30px;
+    margin-right:10px;
     background-color: rgba(255, 255, 255, 0.473);
     border-radius: 5%;
     width: 25rem;
-    height: 15rem;
+    height: 20rem;
     box-shadow: black;
     border: 2px solid rgb(0, 81, 255);
 }
@@ -134,11 +135,15 @@ footer{
     background-color: rgb(243, 243, 245);
 }
 
-#cf{
-    width: 800px;
-    height:450px;
+ #cf{
+
     border: 2px solid rgb(10, 68, 194);
     margin-top: 5%;
-   background-color: rgba(245, 245, 220, 0.349);
+   background-color: rgba(245, 245, 220, 0.459);
+   margin-bottom: 10%;
+} 
+
+label{
+    font-weight: bold;
 }
 
